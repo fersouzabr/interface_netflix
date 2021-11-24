@@ -44,7 +44,7 @@ header nav a:hover{
     color: #FFF;
 }
 
-.filme-pricipal{
+.filme-principal{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/img/banner.jpg);
 
@@ -57,7 +57,7 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-.filme-pricipal .descricao{
+.filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 40px;
 }
@@ -93,7 +93,7 @@ header nav a:hover{
     margin-right: 30px;
 }
 
-.filme-pricipal .container{
+.filme-principal .container{
     width: 70%;
 }
 
